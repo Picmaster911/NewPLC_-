@@ -1,0 +1,17 @@
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.csproj.AssemblyReference.cache
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.AssemblyInfoInputs.cache
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.AssemblyInfo.cs
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.csproj.CoreCompileInputs.cache
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\NewPLC.exe
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\NewPLC.deps.json
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\NewPLC.runtimeconfig.json
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\NewPLC.dll
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\NewPLC.pdb
+D:\55555\NewPLC\NewPLC\bin\Debug\net8.0\S7.Net.dll
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.csproj.Up2Date
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.dll
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\refint\NewPLC.dll
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.pdb
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\NewPLC.genruntimeconfig.cache
+D:\55555\NewPLC\NewPLC\obj\Debug\net8.0\ref\NewPLC.dll

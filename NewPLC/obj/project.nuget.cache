@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSo1AV3ttoI=",
+  "success": true,
+  "projectFilePath": "D:\\55555\\NewPLC\\NewPLC\\NewPLC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\picma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\picma\\.nuget\\packages\\s7netplus\\0.20.0\\s7netplus.0.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
